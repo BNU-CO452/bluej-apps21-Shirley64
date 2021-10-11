@@ -1,0 +1,17 @@
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: MT1CYS1: Cyber Security
+
+Student shirley = new Student("Shirley", 22024214);
+shirley.print();
+ Student ID: 22024214 Name: Shirley
+shirley.enrol(cyberSecurity);
+shirley.printCourse();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: MT1CYS1: Cyber Security
+
